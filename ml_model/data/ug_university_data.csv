@@ -1,0 +1,101 @@
+university_name,country,state,program,rank_tier,tuition_usd,living_cost_usd,cost_of_attendance_usd,min_gpa,min_ielts,min_sat,accepts_without_sat,research_level,ug_cs
+MIT,USA,Massachusetts,Computer Science,1,59000,22000,81000,3.9,7.5,1500,No,5,Yes
+Stanford University,USA,California,Computer Science,1,62000,25000,87000,3.9,7.5,1500,No,5,Yes
+Carnegie Mellon University,USA,Pennsylvania,Computer Science,1,60000,20000,80000,3.85,7.5,1500,No,5,Yes
+UC Berkeley,USA,California,Computer Science,1,48000,24000,72000,3.85,7.5,1500,No,5,Yes
+University of Illinois Urbana-Champaign,USA,Illinois,Computer Science,1,38000,17000,55000,3.8,7.5,1500,No,5,Yes
+Georgia Tech,USA,Georgia,Computer Science,1,33000,17000,50000,3.75,7.0,1500,No,5,Yes
+University of Washington,USA,Washington,Computer Science,1,42000,21000,63000,3.8,7.0,1500,No,5,Yes
+University of Texas at Austin,USA,Texas,Computer Science,1,39000,18000,57000,3.75,7.0,1500,No,5,Yes
+Princeton University,USA,New Jersey,Computer Science,1,57000,21000,78000,3.9,7.5,1500,No,5,Yes
+Cornell University,USA,New York,Computer Science,1,61000,22000,83000,3.8,7.5,1500,No,5,Yes
+University of Michigan,USA,Michigan,Computer Science,2,52000,18000,70000,3.6,7.0,1400,No,4,Yes
+Purdue University,USA,Indiana,Computer Science,2,31000,15000,46000,3.55,7.0,1400,No,4,Yes
+UC San Diego,USA,California,Computer Science,2,45000,23000,68000,3.6,7.0,1400,No,4,Yes
+University of Wisconsin Madison,USA,Wisconsin,Computer Science,2,39000,16000,55000,3.55,7.0,1400,No,4,Yes
+University of Maryland College Park,USA,Maryland,Computer Science,2,41000,18000,59000,3.55,7.0,1400,No,4,Yes
+University of Massachusetts Amherst,USA,Massachusetts,Computer Science,2,35000,18000,53000,3.5,7.0,1400,No,4,Yes
+Texas A&M University,USA,Texas,Computer Science,2,30000,15000,45000,3.45,6.5,1400,No,4,Yes
+Virginia Tech,USA,Virginia,Computer Science,2,34000,15000,49000,3.45,6.5,1400,No,4,Yes
+North Carolina State University,USA,North Carolina,Computer Science,2,32000,15000,47000,3.4,6.5,1400,No,4,Yes
+Arizona State University,USA,Arizona,Computer Science,2,32000,15000,47000,3.35,6.5,1400,No,4,Yes
+University of Florida,USA,Florida,Computer Science,3,30000,15000,45000,3.3,6.5,1280,Yes,3,Yes
+University of Arizona,USA,Arizona,Computer Science,3,29000,14000,43000,3.25,6.5,1280,Yes,3,Yes
+University of Colorado Boulder,USA,Colorado,Computer Science,3,37000,17000,54000,3.35,6.5,1280,Yes,3,Yes
+Indiana University Bloomington,USA,Indiana,Computer Science,3,30000,14000,44000,3.2,6.5,1280,Yes,3,Yes
+University of Utah,USA,Utah,Computer Science,3,29000,14000,43000,3.25,6.5,1280,Yes,3,Yes
+University at Buffalo SUNY,USA,New York,Computer Science,3,25000,15000,40000,3.2,6.5,1280,Yes,3,Yes
+Stony Brook University,USA,New York,Computer Science,3,25000,16000,41000,3.3,6.5,1280,Yes,3,Yes
+University of Pittsburgh,USA,Pennsylvania,Computer Science,3,42000,16000,58000,3.3,6.5,1280,Yes,3,Yes
+Iowa State University,USA,Iowa,Computer Science,3,28000,13000,41000,3.15,6.5,1280,Yes,3,Yes
+University of Iowa,USA,Iowa,Computer Science,3,31000,13000,44000,3.15,6.5,1280,Yes,3,Yes
+University of Tennessee Knoxville,USA,Tennessee,Computer Science,3,31000,13000,44000,3.1,6.5,1280,Yes,3,Yes
+University of Nebraska Lincoln,USA,Nebraska,Computer Science,3,27000,12000,39000,3.1,6.5,1280,Yes,3,Yes
+George Mason University,USA,Virginia,Computer Science,3,30000,17000,47000,3.1,6.5,1280,Yes,3,Yes
+Northeastern University,USA,Massachusetts,Computer Science,3,56000,21000,77000,3.3,7.0,1280,Yes,3,Yes
+Rochester Institute of Technology,USA,New York,Computer Science,3,52000,16000,68000,3.1,6.5,1280,Yes,3,Yes
+Texas Tech University,USA,Texas,Computer Science,4,18000,14000,32000,3.0,6.5,1150,Yes,2,Yes
+University of Kansas,USA,Kansas,Computer Science,4,21000,13000,34000,3.0,6.5,1150,Yes,2,Yes
+Washington State University,USA,Washington,Computer Science,4,28000,15000,43000,3.05,6.5,1150,Yes,2,Yes
+Kansas State University,USA,Kansas,Computer Science,4,21000,12000,33000,2.95,6.5,1150,Yes,2,Yes
+University of North Texas,USA,Texas,Computer Science,4,23000,13000,36000,2.95,6.0,1150,Yes,2,Yes
+University of Nevada Reno,USA,Nevada,Computer Science,4,24000,14000,38000,3.0,6.5,1150,Yes,2,Yes
+University of Alabama in Huntsville,USA,Alabama,Computer Science,4,22000,12000,34000,2.9,6.0,1150,Yes,2,Yes
+University of Louisiana Lafayette,USA,Louisiana,Computer Science,4,18000,11000,29000,2.85,6.0,1150,Yes,2,Yes
+New Mexico State University,USA,New Mexico,Computer Science,5,16000,12000,28000,2.8,6.0,1050,Yes,1,Yes
+University of Wyoming,USA,Wyoming,Computer Science,5,17000,12000,29000,2.8,6.0,1050,Yes,1,Yes
+University of Idaho,USA,Idaho,Computer Science,5,18000,12000,30000,2.8,6.0,1050,Yes,1,Yes
+South Dakota Mines,USA,South Dakota,Computer Science,5,15000,11000,26000,2.75,6.0,1050,Yes,1,Yes
+University of South Dakota,USA,South Dakota,Computer Science,5,14000,11000,25000,2.75,6.0,1050,Yes,1,Yes
+University of Montana,USA,Montana,Computer Science,5,17000,11000,28000,2.75,6.0,1050,Yes,1,Yes
+University of New Orleans,USA,Louisiana,Computer Science,5,16000,11000,27000,2.75,6.0,1050,Yes,1,Yes
+University of Toronto,Canada,Ontario,Computer Science,1,45000,20000,65000,3.8,7.5,1500,No,5,Yes
+University of British Columbia,Canada,British Columbia,Computer Science,1,42000,21000,63000,3.75,7.0,1500,No,5,Yes
+University of Waterloo,Canada,Ontario,Computer Science,1,43000,19000,62000,3.75,7.0,1500,No,5,Yes
+McGill University,Canada,Quebec,Computer Science,2,35000,17000,52000,3.6,7.0,1400,No,4,Yes
+University of Alberta,Canada,Alberta,Computer Science,2,26000,15000,41000,3.45,6.5,1400,No,4,Yes
+University of Calgary,Canada,Alberta,Computer Science,3,24000,15000,39000,3.3,6.5,1280,Yes,3,Yes
+University of Ottawa,Canada,Ontario,Computer Science,3,28000,17000,45000,3.25,6.5,1280,Yes,3,Yes
+Western University,Canada,Ontario,Computer Science,3,30000,16000,46000,3.25,6.5,1280,Yes,3,Yes
+Queen's University,Canada,Ontario,Computer Science,3,30000,16000,46000,3.3,6.5,1280,Yes,3,Yes
+Concordia University,Canada,Quebec,Computer Science,4,22000,14000,36000,3.0,6.5,1150,Yes,2,Yes
+Dalhousie University,Canada,Nova Scotia,Computer Science,4,23000,14000,37000,3.0,6.5,1150,Yes,2,Yes
+University of Manitoba,Canada,Manitoba,Computer Science,4,21000,13000,34000,2.95,6.5,1150,Yes,2,Yes
+Memorial University of Newfoundland,Canada,Newfoundland,Computer Science,5,12000,12000,24000,2.8,6.5,1050,Yes,1,Yes
+University of Oxford,UK,England,Computer Science,1,42000,20000,62000,3.85,7.5,1500,No,5,Yes
+University of Cambridge,UK,England,Computer Science,1,42000,20000,62000,3.85,7.5,1500,No,5,Yes
+Imperial College London,UK,England,Computer Science,1,43000,22000,65000,3.8,7.0,1500,No,5,Yes
+University of Edinburgh,UK,Scotland,Computer Science,2,36000,18000,54000,3.55,7.0,1400,No,4,Yes
+University of Manchester,UK,England,Computer Science,2,34000,17000,51000,3.45,6.5,1400,No,4,Yes
+University of Bristol,UK,England,Computer Science,2,35000,17000,52000,3.45,6.5,1400,No,4,Yes
+University of Warwick,UK,England,Computer Science,2,35000,17000,52000,3.45,6.5,1400,No,4,Yes
+University of Glasgow,UK,Scotland,Computer Science,3,30000,15000,45000,3.25,6.5,1280,Yes,3,Yes
+University of Birmingham,UK,England,Computer Science,3,30000,15000,45000,3.2,6.5,1280,Yes,3,Yes
+University of Leeds,UK,England,Computer Science,3,29000,15000,44000,3.2,6.5,1280,Yes,3,Yes
+University of Melbourne,Australia,Victoria,Computer Science,1,42000,19000,61000,3.65,7.0,1500,No,5,Yes
+Australian National University,Australia,ACT,Computer Science,1,41000,18000,59000,3.65,7.0,1500,No,5,Yes
+University of Sydney,Australia,New South Wales,Computer Science,1,43000,20000,63000,3.6,7.0,1500,No,5,Yes
+UNSW Sydney,Australia,New South Wales,Computer Science,1,43000,20000,63000,3.6,7.0,1500,No,5,Yes
+Monash University,Australia,Victoria,Computer Science,2,39000,18000,57000,3.4,6.5,1400,No,4,Yes
+University of Queensland,Australia,Queensland,Computer Science,2,38000,17000,55000,3.4,6.5,1400,No,4,Yes
+University of Adelaide,Australia,South Australia,Computer Science,3,35000,16000,51000,3.2,6.5,1280,Yes,3,Yes
+University of Technology Sydney,Australia,New South Wales,Computer Science,3,36000,18000,54000,3.2,6.5,1280,Yes,3,Yes
+RMIT University,Australia,Victoria,Computer Science,4,32000,17000,49000,3.0,6.5,1150,Yes,2,Yes
+Deakin University,Australia,Victoria,Computer Science,4,30000,16000,46000,2.9,6.5,1150,Yes,2,Yes
+University of Tokyo,Japan,Tokyo,Computer Science,1,5000,15000,20000,3.75,7.0,1500,No,5,Yes
+Kyoto University,Japan,Kyoto,Computer Science,1,5000,13000,18000,3.7,7.0,1500,No,5,Yes
+Tohoku University,Japan,Miyagi,Computer Science,2,5000,12000,17000,3.5,6.5,1400,No,4,Yes
+University of Tsukuba,Japan,Ibaraki,Computer Science,3,5000,11000,16000,3.3,6.5,1280,Yes,3,Yes
+University of Aizu,Japan,Fukushima,Computer Science,4,5000,10000,15000,3.0,6.0,1150,Yes,2,Yes
+ETH Zurich,Switzerland,Zurich,Computer Science,1,2000,25000,27000,3.85,7.0,1500,No,5,Yes
+EPFL,Switzerland,Lausanne,Computer Science,1,2000,24000,26000,3.75,7.0,1500,No,5,Yes
+Technical University of Munich,Germany,Bavaria,Computer Science,2,3000,13000,16000,3.5,6.5,1400,No,4,Yes
+Saarland University,Germany,Saarland,Computer Science,3,3000,12000,15000,3.25,6.5,1280,Yes,3,Yes
+University of Amsterdam,Netherlands,North Holland,Computer Science,2,22000,16000,38000,3.45,6.5,1400,No,4,Yes
+Delft University of Technology,Netherlands,South Holland,Computer Science,2,22000,16000,38000,3.45,6.5,1400,No,4,Yes
+KTH Royal Institute of Technology,Sweden,Stockholm,Computer Science,3,17000,14000,31000,3.25,6.5,1280,Yes,3,Yes
+Aalto University,Finland,Espoo,Computer Science,3,17000,13000,30000,3.25,6.5,1280,Yes,3,Yes
+National University of Singapore,Singapore,Singapore,Computer Science,1,37000,18000,55000,3.8,7.0,1500,No,5,Yes
+Nanyang Technological University,Singapore,Singapore,Computer Science,1,36000,17000,53000,3.75,7.0,1500,No,5,Yes
+Oregon State University,USA,Oregon,Computer Science,4,31000,15000,46000,2.9,6.5,1150,Yes,2,Yes
+Colorado State University,USA,Colorado,Computer Science,4,32000,16000,48000,3.0,6.5,1180,Yes,2,Yes
