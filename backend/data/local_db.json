@@ -1,0 +1,1887 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Student One",
+      "email": "student1@example.com",
+      "role": "Student",
+      "createdAt": "2026-07-10T19:02:36.311Z",
+      "password": "1234",
+      "isVerified": true,
+      "email_verified": true,
+      "isBlocked": false,
+      "verification_otp": "774037",
+      "otp_expires_at": "2026-08-09T18:10:08.768Z",
+      "specialization": "",
+      "officeHours": "",
+      "bio": "",
+      "profilePicture": "/uploads/profile-1787915693164-770697354.jpg"
+    },
+    {
+      "id": "2",
+      "fullName": "Student Two",
+      "email": "student2@example.com",
+      "mobileNumber": "01001010101",
+      "role": "Student",
+      "isVerified": false,
+      "createdAt": "2026-07-19T20:48:43.777Z",
+      "password": "rice",
+      "email_verified": false,
+      "isBlocked": false,
+      "verification_otp": null,
+      "otp_expires_at": null,
+      "specialization": "",
+      "officeHours": "",
+      "bio": "",
+      "profilePicture": null
+    },
+    {
+      "id": "3",
+      "fullName": "Student Three",
+      "email": "student3@example.com",
+      "mobileNumber": "01968714344",
+      "role": "Student",
+      "isVerified": true,
+      "createdAt": "2026-07-19T20:50:06.160Z",
+      "password": "1234",
+      "email_verified": true,
+      "isBlocked": false,
+      "verification_otp": null,
+      "otp_expires_at": null,
+      "specialization": "",
+      "officeHours": "",
+      "bio": "",
+      "profilePicture": null
+    },
+    {
+      "id": "4",
+      "fullName": "Student Two",
+      "email": "student4@example.com",
+      "mobileNumber": "01111111111",
+      "role": "Student",
+      "isVerified": true,
+      "createdAt": "2026-07-19T20:51:35.024Z",
+      "email_verified": true,
+      "isBlocked": false,
+      "verification_otp": null,
+      "otp_expires_at": null,
+      "password": "1234",
+      "specialization": "",
+      "officeHours": "",
+      "bio": "",
+      "profilePicture": null
+    },
+    {
+      "id": "35864180-db8a-4bf5-8d48-80a871ad98f8",
+      "fullName": "Student One",
+      "email": "faculty1@example.com",
+      "mobileNumber": "01409642342",
+      "role": "Faculty",
+      "institution": "Berea College",
+      "department": "Computer Science",
+      "designation": "Assistant Professor",
+      "isVerified": true,
+      "createdAt": "2026-08-03T06:27:14.818Z",
+      "email_verified": true,
+      "isBlocked": false,
+      "verification_otp": null,
+      "otp_expires_at": null,
+      "password": "123456",
+      "specialization": "",
+      "officeHours": "",
+      "bio": "",
+      "profilePicture": null
+    },
+    {
+      "id": "999",
+      "fullName": "Admin User",
+      "email": "admin@example.com",
+      "password": "1234",
+      "role": "Admin",
+      "email_verified": true,
+      "isVerified": true,
+      "isBlocked": false,
+      "verification_otp": null,
+      "otp_expires_at": null,
+      "createdAt": "2026-08-06T16:30:13.3924398Z",
+      "specialization": "",
+      "officeHours": "",
+      "bio": "",
+      "profilePicture": null
+    },
+    {
+      "id": 1000,
+      "fullName": "Student Four",
+      "email": "student5@example.com",
+      "password": "1234",
+      "mobileNumber": "01010101010",
+      "role": "Student",
+      "institution": null,
+      "department": null,
+      "designation": null,
+      "email_verified": true,
+      "isVerified": true,
+      "verification_otp": null,
+      "otp_expires_at": null,
+      "isBlocked": false,
+      "createdAt": "2026-08-06T16:46:58.777Z",
+      "specialization": "",
+      "officeHours": "",
+      "bio": "",
+      "profilePicture": null
+    },
+    {
+      "id": 1001,
+      "fullName": "Local Test",
+      "email": "localtest1786034908949@test.com",
+      "password": "1234",
+      "mobileNumber": "01010101010",
+      "role": "Student",
+      "institution": null,
+      "department": null,
+      "designation": null,
+      "email_verified": false,
+      "isVerified": false,
+      "verification_otp": "425188",
+      "otp_expires_at": "2026-08-06T16:50:28.957Z",
+      "isBlocked": false,
+      "createdAt": "2026-08-06T16:48:28.953Z",
+      "specialization": "",
+      "officeHours": "",
+      "bio": "",
+      "profilePicture": null
+    },
+    {
+      "id": 1002,
+      "fullName": "Faculty Three",
+      "email": "faculty2@example.com",
+      "password": "0000",
+      "mobileNumber": "01234567892",
+      "role": "Faculty",
+      "institution": "NSU",
+      "department": "CSE",
+      "designation": "Lecturer",
+      "email_verified": true,
+      "isVerified": true,
+      "verification_otp": null,
+      "otp_expires_at": null,
+      "isBlocked": false,
+      "createdAt": "2026-08-06T16:56:37.896Z",
+      "specialization": "",
+      "officeHours": "",
+      "bio": "",
+      "profilePicture": null
+    },
+    {
+      "id": 1,
+      "fullName": "Student Test",
+      "email": "stu1786298880195@test.com",
+      "password": "password",
+      "mobileNumber": "01700000000",
+      "role": "Student",
+      "institution": null,
+      "department": null,
+      "designation": null,
+      "email_verified": false,
+      "isVerified": false,
+      "verification_otp": null,
+      "otp_expires_at": null,
+      "isBlocked": false,
+      "createdAt": "2026-08-09T18:08:00.220Z",
+      "specialization": "",
+      "officeHours": "",
+      "bio": "",
+      "profilePicture": null
+    },
+    {
+      "id": 1003,
+      "fullName": "Faculty Test",
+      "email": "fac1786298880195@test.com",
+      "password": "password",
+      "mobileNumber": "01800000000",
+      "role": "Faculty",
+      "institution": "MIT",
+      "department": "CS",
+      "designation": "Professor",
+      "email_verified": false,
+      "isVerified": false,
+      "verification_otp": "903678",
+      "otp_expires_at": "2026-08-09T18:10:12.405Z",
+      "isBlocked": false,
+      "createdAt": "2026-08-09T18:08:05.021Z",
+      "specialization": "",
+      "officeHours": "",
+      "bio": "",
+      "profilePicture": null
+    },
+    {
+      "id": 1004,
+      "fullName": "Faculty Two",
+      "email": "faculty3@example.com",
+      "password": "1234",
+      "mobileNumber": "01010101010",
+      "role": "Student",
+      "institution": null,
+      "department": null,
+      "designation": null,
+      "email_verified": true,
+      "isVerified": true,
+      "verification_otp": null,
+      "otp_expires_at": null,
+      "isBlocked": false,
+      "createdAt": "2026-08-20T16:08:42.312Z",
+      "specialization": "",
+      "officeHours": "",
+      "bio": "",
+      "profilePicture": null
+    }
+  ],
+  "verification_tokens": [
+    {
+      "id": "2c094b14-3b35-478b-94c5-9997483cd87c",
+      "userId": "2",
+      "token": "690270",
+      "expiresAt": "2026-07-20T20:48:43.778Z",
+      "createdAt": "2026-07-19T20:48:43.778Z",
+      "verifiedAt": null
+    },
+    {
+      "id": "53f006c4-f4dd-4629-89cf-3f8453aed7fa",
+      "userId": "3",
+      "token": "459954",
+      "expiresAt": "2026-07-20T20:50:06.161Z",
+      "createdAt": "2026-07-19T20:50:06.161Z",
+      "verifiedAt": "2026-07-19T14:50:54.000Z"
+    },
+    {
+      "id": "fa39e700-fc99-42cb-a8d8-0f32325073ec",
+      "userId": "4",
+      "token": "393447",
+      "expiresAt": "2026-07-20T20:51:35.025Z",
+      "createdAt": "2026-07-19T20:51:35.025Z",
+      "verifiedAt": "2026-07-19T14:51:49.000Z"
+    },
+    {
+      "id": "1a9d7652-503b-44b6-8542-858e7451ec6e",
+      "userId": "35864180-db8a-4bf5-8d48-80a871ad98f8",
+      "token": "739222",
+      "expiresAt": "2026-08-04T06:27:14.818Z",
+      "createdAt": "2026-08-03T06:27:14.818Z",
+      "verifiedAt": null
+    },
+    {
+      "id": "17324f0d-ec16-4105-ae20-fe1daf4d5c04",
+      "userId": 1001,
+      "token": "425188",
+      "expiresAt": "2026-08-06T16:50:28.957Z",
+      "createdAt": "2026-08-06T16:48:28.960Z",
+      "verifiedAt": null
+    },
+    {
+      "id": "baa20935-431e-4bdc-afa5-429ca1fe9ec6",
+      "userId": 1,
+      "token": "774037",
+      "expiresAt": "2026-08-09T18:10:08.768Z",
+      "createdAt": "2026-08-09T18:08:08.770Z",
+      "verifiedAt": null
+    },
+    {
+      "id": "9ab01f7c-d5e4-4a35-847e-92b30ce367dc",
+      "userId": 1003,
+      "token": "903678",
+      "expiresAt": "2026-08-09T18:10:12.405Z",
+      "createdAt": "2026-08-09T18:08:12.409Z",
+      "verifiedAt": null
+    }
+  ],
+  "student_profiles": [
+    {
+      "id": "af87004e-b2c8-421e-8337-33ab02b57bb6",
+      "userId": "1",
+      "degreeLevel": "Undergraduate",
+      "intendedMajor": "Computer Science",
+      "cgpa": 3.75,
+      "ieltsToefl": 8,
+      "gresatgmat": 326,
+      "budget": 20000,
+      "researchPapers": 3,
+      "projects": 3,
+      "internships": 1,
+      "extracurriculars": "Member of the University Programming Club; volunteer workshop mentor; organizer of an\nintroductory robotics event.",
+      "sopStrength": "Strong",
+      "lorStrength": "Very Good",
+      "fundingNeed": "Medium",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "Data Analysis",
+        "SQL",
+        "C++",
+        "Computer Vision",
+        "PyTorch",
+        "React",
+        "Node.js",
+        "JavaScript",
+        "Java",
+        "Git"
+      ],
+      "latestCvName": "UniScout_Placeholder_CV.pdf",
+      "createdAt": "2026-07-10T19:02:36.313Z",
+      "updatedAt": "2026-08-20T14:34:09.787Z"
+    },
+    {
+      "id": "4b127083-c38d-4953-8654-37c6075668e1",
+      "userId": "2",
+      "degreeLevel": null,
+      "intendedMajor": null,
+      "cgpa": null,
+      "ieltsToefl": null,
+      "gresatgmat": null,
+      "budget": null,
+      "researchPapers": 0,
+      "projects": 0,
+      "internships": 0,
+      "extracurriculars": null,
+      "sopStrength": null,
+      "lorStrength": null,
+      "fundingNeed": null,
+      "skills": [],
+      "latestCvName": null,
+      "createdAt": "2026-07-19T20:48:43.779Z"
+    },
+    {
+      "id": "099336c9-d390-42bf-8a77-360caf4229b6",
+      "userId": "3",
+      "degreeLevel": null,
+      "intendedMajor": null,
+      "cgpa": null,
+      "ieltsToefl": null,
+      "gresatgmat": null,
+      "budget": null,
+      "researchPapers": 0,
+      "projects": 0,
+      "internships": 0,
+      "extracurriculars": null,
+      "sopStrength": null,
+      "lorStrength": null,
+      "fundingNeed": null,
+      "skills": [],
+      "latestCvName": null,
+      "createdAt": "2026-07-19T20:50:06.162Z"
+    },
+    {
+      "id": "c5e1363e-92f4-4188-bebc-5743e4cf51c6",
+      "userId": "4",
+      "degreeLevel": "Undergraduate",
+      "intendedMajor": "Computer Science",
+      "cgpa": 3.86,
+      "ieltsToefl": 8,
+      "gresatgmat": 326,
+      "budget": null,
+      "researchPapers": 2,
+      "projects": 6,
+      "internships": 2,
+      "extracurriculars": "ACM Student Chapter Executive Member\nHackathon Finalist\nOpen Source Contributor\nLanguages\nEnglish (Native), Spanish (Professional Working Proficiency)",
+      "sopStrength": null,
+      "lorStrength": null,
+      "fundingNeed": null,
+      "skills": [
+        "Python",
+        "R",
+        "MATLAB",
+        "Machine Learning",
+        "Deep Learning",
+        "Data Analysis",
+        "SQL",
+        "C++",
+        "C#",
+        "Computer Vision",
+        "NLP",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "React",
+        "Node.js",
+        "JavaScript",
+        "TypeScript",
+        "Java",
+        "Git",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "Linux"
+      ],
+      "latestCvName": "UniScout_Demo_CV_Parser_Optimized.pdf",
+      "createdAt": "2026-07-19T20:51:35.026Z",
+      "updatedAt": "2026-07-20T08:58:02.289Z"
+    },
+    {
+      "id": "e30df5bd-faba-4b18-ba5b-a56005717fac",
+      "userId": 1000,
+      "degreeLevel": null,
+      "intendedMajor": null,
+      "cgpa": null,
+      "ieltsToefl": null,
+      "gresatgmat": null,
+      "budget": null,
+      "researchPapers": 0,
+      "projects": 0,
+      "internships": 0,
+      "extracurriculars": null,
+      "sopStrength": null,
+      "lorStrength": null,
+      "fundingNeed": null,
+      "skills": [],
+      "latestCvName": null,
+      "createdAt": "2026-08-06T16:46:58.780Z"
+    },
+    {
+      "id": "24492dd0-27c8-4068-accc-c04513c84b07",
+      "userId": 1001,
+      "degreeLevel": null,
+      "intendedMajor": null,
+      "cgpa": null,
+      "ieltsToefl": null,
+      "gresatgmat": null,
+      "budget": null,
+      "researchPapers": 0,
+      "projects": 0,
+      "internships": 0,
+      "extracurriculars": null,
+      "sopStrength": null,
+      "lorStrength": null,
+      "fundingNeed": null,
+      "skills": [],
+      "latestCvName": null,
+      "createdAt": "2026-08-06T16:48:28.956Z"
+    },
+    {
+      "id": "effe9606-19ec-4003-b88b-c723b5299ac6",
+      "userId": 1002,
+      "degreeLevel": "Undergraduate",
+      "intendedMajor": "Computer Science",
+      "cgpa": 3.65,
+      "ieltsToefl": 8,
+      "gresatgmat": null,
+      "budget": null,
+      "researchPapers": 0,
+      "projects": 0,
+      "internships": 0,
+      "extracurriculars": "",
+      "sopStrength": null,
+      "lorStrength": null,
+      "fundingNeed": null,
+      "skills": [],
+      "latestCvName": null,
+      "createdAt": "2026-08-06T17:00:06.153Z"
+    },
+    {
+      "id": "6848fa78-3d81-45af-ac52-56f7f80f6fdd",
+      "userId": 1,
+      "degreeLevel": null,
+      "intendedMajor": null,
+      "cgpa": null,
+      "ieltsToefl": null,
+      "gresatgmat": null,
+      "budget": null,
+      "researchPapers": 0,
+      "projects": 0,
+      "internships": 0,
+      "extracurriculars": null,
+      "sopStrength": null,
+      "lorStrength": null,
+      "fundingNeed": null,
+      "skills": [],
+      "latestCvName": null,
+      "createdAt": "2026-08-09T18:08:00.221Z"
+    },
+    {
+      "id": "047e69e9-c18a-42ce-b017-8d0285f5a0bc",
+      "userId": 1004,
+      "degreeLevel": "Undergraduate",
+      "intendedMajor": "Computer Science",
+      "cgpa": 2.8,
+      "ieltsToefl": 7,
+      "gresatgmat": 310,
+      "budget": 8000,
+      "researchPapers": 3,
+      "projects": 1,
+      "internships": 0,
+      "extracurriculars": "",
+      "fundingNeed": "",
+      "fundingPreference": "",
+      "skills": [
+        "Python",
+        "R",
+        "Machine Learning",
+        "C++",
+        "Computer Vision",
+        "TensorFlow",
+        "Scikit-learn",
+        "JavaScript",
+        "Java",
+        "Git"
+      ],
+      "latestCvName": "mediocre_cs_cv.pdf",
+      "institution": "",
+      "graduationYear": "",
+      "researchInterests": "[\"Machine Learning | Computer Vision | Data Science | Healthcare Applications of AI\",\"RESEARCH EXPERIENCE\",\"Undergraduate Research Assistant - Department of Computer Science and Engineering\",\"January 2026 - Present\",\"• Worked on introductory machine learning experiments involving classification and image data.\",\"• Assisted with dataset preprocessing\",\"feature extraction\",\"and model evaluation.\",\"• Implemented baseline models using Python and Scikit-learn.\",\"• Helped prepare experimental results for conference submissions.\"]",
+      "publications": [
+        {
+          "title": "Machine Learning Based Prediction of Diabetes Using Clinical Features",
+          "venue": "",
+          "year": "",
+          "authorship": "",
+          "topic": ""
+        },
+        {
+          "title": "R. Hossain, S. Ahmed, T. Rahman. International Conference on Computing and Information Technology (ICCIT-BD), .",
+          "venue": "2026",
+          "year": "",
+          "authorship": "",
+          "topic": ""
+        },
+        {
+          "title": "Comparative Analysis of CNN Architectures for Plant Disease Classification",
+          "venue": "",
+          "year": "",
+          "authorship": "",
+          "topic": ""
+        },
+        {
+          "title": "S. Ahmed, R. Hossain, M. Hasan. National Conference on Emerging Technologies in Computing (NCETC), .",
+          "venue": "2026",
+          "year": "",
+          "authorship": "",
+          "topic": ""
+        },
+        {
+          "title": "An IoT and Machine Learning Approach for Smart Waste Classification",
+          "venue": "",
+          "year": "",
+          "authorship": "",
+          "topic": ""
+        },
+        {
+          "title": "M. Islam, R. Hossain, N. Akter. Bangladesh Conference on Intelligent Systems and Technology (BCIST), .",
+          "venue": "2025",
+          "year": "",
+          "authorship": "",
+          "topic": ""
+        }
+      ],
+      "desiredDegree": "",
+      "preferredCountries": [],
+      "createdAt": "2026-08-20T16:08:42.315Z",
+      "updatedAt": "2026-08-20T16:16:13.163Z"
+    }
+  ],
+  "recommendation_requests": [
+    {
+      "id": "1fc5d988-a872-4795-930b-94a03e918b87",
+      "studentId": "1",
+      "studentName": "Student One",
+      "studentEmail": "student1@example.com",
+      "facultyName": "Faculty One",
+      "facultyEmail": "faculty1@example.com",
+      "facultyInstitution": "Berea College",
+      "facultyDepartment": "Computer Science",
+      "facultyDesignation": "Lecturer",
+      "relationshipToStudent": "PI",
+      "coursesTaught": "CSE445",
+      "purpose": "Recommendation",
+      "studentMessage": "Can you kindly provide me a LOR, sir?",
+      "deadline": "2026-08-04",
+      "status": "accepted",
+      "respondedAt": "2026-08-03T08:30:52.590Z",
+      "createdAt": "2026-08-03T08:30:38.064Z",
+      "updatedAt": "2026-08-03T08:41:26.595Z",
+      "letterFileName": "Untitled document.pdf",
+      "letterStoredName": "1fc5d988-a872-4795-930b-94a03e918b87-0d5fd382-02f0-4b1d-b373-08dd55d7660b.pdf",
+      "letterMimeType": "application/pdf",
+      "letterFileSize": 12646,
+      "submittedAt": "2026-08-03T08:41:26.595Z"
+    },
+    {
+      "id": "a2e2747d-9e4e-4c3c-bd73-a225de4ab7b0",
+      "studentId": "1",
+      "studentName": "Student One",
+      "studentEmail": "student1@example.com",
+      "facultyName": "Faculty One",
+      "facultyEmail": "faculty1@example.com",
+      "facultyInstitution": "Berea College",
+      "facultyDepartment": "CS",
+      "facultyDesignation": "Lecturer",
+      "relationshipToStudent": "PI",
+      "coursesTaught": "CSE445",
+      "purpose": "12345",
+      "studentMessage": "Hello",
+      "deadline": "2026-08-04",
+      "status": "cancelled",
+      "respondedAt": null,
+      "createdAt": "2026-08-03T08:55:18.984Z",
+      "updatedAt": "2026-08-03T09:38:45.225Z"
+    },
+    {
+      "id": "45318ca1-50d5-4d0f-8c2b-e8ab02ccb9e6",
+      "studentId": "1",
+      "studentName": "Student One",
+      "studentEmail": "student1@example.com",
+      "facultyName": "Faculty One",
+      "facultyEmail": "faculty1@example.com",
+      "facultyInstitution": "Berea College",
+      "facultyDepartment": "CS",
+      "facultyDesignation": "Lecturer",
+      "relationshipToStudent": "PI",
+      "coursesTaught": "CSE",
+      "purpose": "Recommendation",
+      "studentMessage": "Hello",
+      "deadline": "2026-08-05",
+      "status": "accepted",
+      "respondedAt": "2026-08-03T09:39:52.172Z",
+      "createdAt": "2026-08-03T09:39:23.707Z",
+      "updatedAt": "2026-08-03T09:39:56.573Z",
+      "letterFileName": "Untitled document.pdf",
+      "letterStoredName": "45318ca1-50d5-4d0f-8c2b-e8ab02ccb9e6-069338c6-ecd5-41fa-9c9b-07799a3f50e8.pdf",
+      "letterMimeType": "application/pdf",
+      "letterFileSize": 12646,
+      "submittedAt": "2026-08-03T09:39:56.573Z"
+    },
+    {
+      "id": "78b58e22-7898-44cd-8224-f64bf8e86a20",
+      "studentId": "4",
+      "studentName": "Student Two",
+      "studentEmail": "student4@example.com",
+      "facultyName": "Student One",
+      "facultyEmail": "faculty1@example.com",
+      "facultyInstitution": "Berea College",
+      "facultyDepartment": "Computer Science",
+      "facultyDesignation": "Lecturer",
+      "relationshipToStudent": "PI",
+      "coursesTaught": "CSE",
+      "purpose": "blah blah",
+      "studentMessage": "hello",
+      "deadline": "2026-08-05",
+      "status": "accepted",
+      "respondedAt": "2026-08-04T04:27:15.606Z",
+      "createdAt": "2026-08-04T04:26:37.427Z",
+      "updatedAt": "2026-08-04T04:27:18.609Z",
+      "letterFileName": "Untitled document.pdf",
+      "letterStoredName": "78b58e22-7898-44cd-8224-f64bf8e86a20-238e705a-6cf5-4f90-8ee7-0f22c2300037.pdf",
+      "letterMimeType": "application/pdf",
+      "letterFileSize": 12646,
+      "submittedAt": "2026-08-04T04:27:18.608Z"
+    },
+    {
+      "id": "82823a67-cc89-4b84-96a0-5bbd42855cc1",
+      "studentId": "1",
+      "studentName": "Student One",
+      "studentEmail": "student1@example.com",
+      "facultyName": "Faculty Three",
+      "facultyEmail": "faculty2@example.com",
+      "facultyInstitution": null,
+      "facultyDepartment": null,
+      "facultyDesignation": null,
+      "relationshipToStudent": "Professor",
+      "coursesTaught": null,
+      "purpose": "Grad School",
+      "studentMessage": null,
+      "deadline": "2027-12-31",
+      "status": "pending",
+      "respondedAt": null,
+      "createdAt": "2026-08-09T18:11:38.126Z",
+      "updatedAt": "2026-08-09T18:11:38.126Z"
+    }
+  ],
+  "shortlists": [
+    {
+      "user_id": "1",
+      "university_id": "1"
+    },
+    {
+      "user_id": "1002",
+      "university_id": "14"
+    },
+    {
+      "user_id": "1000",
+      "university_id": "ai-catalog-121",
+      "source": "ai_catalog",
+      "savedAt": "2026-08-28T14:45:21.656Z",
+      "aiUniversity": {
+        "id": "ai-catalog-121",
+        "catalogueId": "121",
+        "source": "ai_catalog",
+        "universityName": "East Carolina University",
+        "university_name": "East Carolina University",
+        "country": "USA",
+        "stateOrRegion": "North Carolina",
+        "state": "North Carolina",
+        "programName": "Computer Science",
+        "program": "Computer Science",
+        "programUrl": "",
+        "imageUrl": "",
+        "whySuggested": "Matches your preference for an MS in Computer Science in the United States and is a Tier 4 option closer to your academic profile.",
+        "relevantResearchAreas": [
+          "Computing and Information Sciences"
+        ],
+        "requirements": {
+          "cgpa": "3",
+          "gre": "305",
+          "english": "6.5 IELTS"
+        },
+        "funding": {
+          "status": "Not listed in local catalogue",
+          "details": "Verify scholarships and assistantships with the university."
+        },
+        "estimatedCost": 42600,
+        "intake": "Fall, Spring",
+        "deadline": "December 1",
+        "importantNotes": [
+          "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+          "The program's minimum 3.0 CGPA and 6.5 IELTS are higher than your current 2.5 CGPA and 6.0 IELTS.",
+          "Estimated annual cost is $42,600, which exceeds your $20,000 budget, making funding or assistantships essential."
+        ],
+        "sources": [],
+        "saved": false
+      }
+    }
+  ],
+  "ai_recommendations": {
+    "1": {
+      "applicantProfile": {
+        "applicant": {
+          "name": "Student One",
+          "email": "student1@example.com"
+        },
+        "degree": {
+          "level": "Undergraduate",
+          "field": "Computer Science",
+          "institution": "",
+          "cgpa": 3.75,
+          "graduationYear": ""
+        },
+        "tests": {
+          "ieltsOrToefl": 8,
+          "englishType": "IELTS",
+          "greSatOrGmat": 326,
+          "admissionsType": "GRE"
+        },
+        "research": {
+          "interests": [],
+          "publications": [],
+          "papers": 3
+        },
+        "experience": {
+          "projects": 3,
+          "internships": 1,
+          "extracurriculars": "Member of the University Programming Club; volunteer workshop mentor; organizer of an\nintroductory robotics event."
+        },
+        "skills": [
+          "Python",
+          "Machine Learning",
+          "Deep Learning",
+          "Data Analysis",
+          "SQL",
+          "C++",
+          "Computer Vision",
+          "PyTorch",
+          "React",
+          "Node.js",
+          "JavaScript",
+          "Java",
+          "Git"
+        ],
+        "preferences": {
+          "desiredDegree": "",
+          "desiredField": "Computer Science",
+          "countries": [],
+          "budgetUsdPerYear": 20000,
+          "fundingPreference": "Medium"
+        }
+      },
+      "cacheKey": "ec690470a996a0ad933be9e820894a164bb810b6db65cb458b4c1cda51b4c159",
+      "model": "gemini-3.5-flash",
+      "source": "hybrid_v2",
+      "recommendations": [
+        {
+          "id": "ai-v2-25",
+          "catalogueId": "25",
+          "source": "ai_hybrid_v2",
+          "engineVersion": "uniscout-v2.2.0",
+          "matchCategory": "Reach",
+          "universityName": "Duke University",
+          "university_name": "Duke University",
+          "country": "USA",
+          "stateOrRegion": "North Carolina",
+          "state": "North Carolina",
+          "programName": "Environmental Science",
+          "program": "Environmental Science",
+          "programUrl": "",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyudcJ6IEtncJKq0a-eF64V4cXFo_Ha9voaJPaCFZ6dw&s",
+          "whySuggested": "Your academic credentials exceed the program's baseline requirements, with a CGPA of 3.75 (vs 3.6 required) and a GRE of 326 (vs 318 required). However, the profile fit is lower (65) because the program's focus is in Environmental and Earth Sciences, whereas your background is in Computer Science.",
+          "relevantResearchAreas": [
+            "Environmental and Earth Sciences"
+          ],
+          "requirements": {
+            "cgpa": "3.6",
+            "gre": "318",
+            "english": "7 IELTS"
+          },
+          "funding": {
+            "status": "Medium",
+            "details": "Funding availability is not verified in the current catalogue; confirm assistantships and scholarships with the programme."
+          },
+          "estimatedCost": 62400,
+          "intake": "Fall, Spring",
+          "deadline": "December 1",
+          "importantNotes": [
+            "Estimated annual cost exceeds your stated budget by about $42,400.",
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "This record has no linked official programme source, so treat it as a planning estimate."
+          ],
+          "sources": [],
+          "scores": {
+            "applicantStrength": 90,
+            "programmeCompetitiveness": 82,
+            "profileFit": 65,
+            "competitivenessGap": -8,
+            "applicantBreakdown": {
+              "academic": 56,
+              "tests": 13,
+              "research": 14,
+              "experience": 4,
+              "skills": 3
+            }
+          },
+          "profileConfidence": "High",
+          "dataConfidence": "Low",
+          "modelEnhanced": true,
+          "saved": false
+        },
+        {
+          "id": "ai-v2-31",
+          "catalogueId": "31",
+          "source": "ai_hybrid_v2",
+          "engineVersion": "uniscout-v2.2.0",
+          "matchCategory": "Target",
+          "universityName": "Ohio State University",
+          "university_name": "Ohio State University",
+          "country": "USA",
+          "stateOrRegion": "Ohio",
+          "state": "Ohio",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "https://icon.horse/icon/ohiostatepress.org",
+          "whySuggested": "This program aligns directly with your Computer Science background and desired field. Your test scores (326 GRE, 8 IELTS) and CGPA (3.75) comfortably exceed the requirements (318 GRE, 7 IELTS, 3.6 CGPA), and your programming skills (Python, C++, SQL) strongly match the Computing and Information Sciences research area.",
+          "relevantResearchAreas": [
+            "Computing and Information Sciences"
+          ],
+          "requirements": {
+            "cgpa": "3.6",
+            "gre": "318",
+            "english": "7 IELTS"
+          },
+          "funding": {
+            "status": "Medium",
+            "details": "Funding availability is not verified in the current catalogue; confirm assistantships and scholarships with the programme."
+          },
+          "estimatedCost": 60600,
+          "intake": "Fall",
+          "deadline": "Fall: February 1; Spring: October 1",
+          "importantNotes": [
+            "Estimated annual cost exceeds your stated budget by about $40,600.",
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "This record has no linked official programme source, so treat it as a planning estimate."
+          ],
+          "sources": [],
+          "scores": {
+            "applicantStrength": 90,
+            "programmeCompetitiveness": 82,
+            "profileFit": 78,
+            "competitivenessGap": -8,
+            "applicantBreakdown": {
+              "academic": 56,
+              "tests": 13,
+              "research": 14,
+              "experience": 4,
+              "skills": 3
+            }
+          },
+          "profileConfidence": "High",
+          "dataConfidence": "Low",
+          "modelEnhanced": true,
+          "saved": false
+        },
+        {
+          "id": "ai-v2-46",
+          "catalogueId": "46",
+          "source": "ai_hybrid_v2",
+          "engineVersion": "uniscout-v2.2.0",
+          "matchCategory": "Safety",
+          "universityName": "Boston University",
+          "university_name": "Boston University",
+          "country": "USA",
+          "stateOrRegion": "Massachusetts",
+          "state": "Massachusetts",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjG3vuOm7rV6vi_3pTAEMQpGw5stOiMnIwNj3I_iqEMQ&s=10",
+          "whySuggested": "Categorized as a safety option because your academic metrics (3.75 CGPA, 326 GRE) are well above the program requirements (3.6 CGPA, 318 GRE). Your practical software skills, hands-on projects, and 3 research papers make you an exceptionally competitive candidate for this Computer Science curriculum.",
+          "relevantResearchAreas": [
+            "Computing and Information Sciences"
+          ],
+          "requirements": {
+            "cgpa": "3.6",
+            "gre": "318",
+            "english": "7 IELTS"
+          },
+          "funding": {
+            "status": "Medium",
+            "details": "Funding availability is not verified in the current catalogue; confirm assistantships and scholarships with the programme."
+          },
+          "estimatedCost": 69400,
+          "intake": "Fall",
+          "deadline": "Fall: January 15; Spring: September 15",
+          "importantNotes": [
+            "Estimated annual cost exceeds your stated budget by about $49,400.",
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "This record has no linked official programme source, so treat it as a planning estimate."
+          ],
+          "sources": [],
+          "scores": {
+            "applicantStrength": 90,
+            "programmeCompetitiveness": 81,
+            "profileFit": 78,
+            "competitivenessGap": -9,
+            "applicantBreakdown": {
+              "academic": 56,
+              "tests": 13,
+              "research": 14,
+              "experience": 4,
+              "skills": 3
+            }
+          },
+          "profileConfidence": "High",
+          "dataConfidence": "Low",
+          "modelEnhanced": true,
+          "saved": false
+        }
+      ],
+      "catalogueSize": 200,
+      "generatedAt": "2026-08-28T11:12:37.265Z"
+    },
+    "1000": {
+      "applicantProfile": {
+        "applicant": {
+          "name": "Student Four",
+          "email": "student5@example.com"
+        },
+        "degree": {
+          "level": "Graduate",
+          "field": "Computer Science",
+          "institution": "North South University",
+          "cgpa": 2.5,
+          "graduationYear": "2027"
+        },
+        "tests": {
+          "ieltsOrToefl": 6,
+          "greSatOrGmat": 259
+        },
+        "research": {
+          "interests": [
+            "Machine Learning"
+          ],
+          "publications": []
+        },
+        "experience": {
+          "projects": 0,
+          "internships": 0,
+          "extracurriculars": "Member of the University Programming Club; volunteer workshop mentor; organizer of an\nintroductory robotics event."
+        },
+        "skills": [
+          "Machine Learning"
+        ],
+        "preferences": {
+          "desiredDegree": "MS",
+          "desiredField": "Computer Science",
+          "countries": [
+            "[\"United States\"]"
+          ],
+          "budgetUsdPerYear": 20000,
+          "fundingPreference": "Required"
+        }
+      },
+      "cacheKey": "f321b0249f7d0901af07c24b0e757383084dd56dab05b5c36cea194f3ab3e2ec",
+      "model": "gemini-3.5-flash",
+      "source": "local_catalogue",
+      "recommendations": [
+        {
+          "id": "ai-catalog-121",
+          "catalogueId": "121",
+          "source": "ai_catalog",
+          "universityName": "East Carolina University",
+          "university_name": "East Carolina University",
+          "country": "USA",
+          "stateOrRegion": "North Carolina",
+          "state": "North Carolina",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "",
+          "whySuggested": "Matches your preference for an MS in Computer Science in the United States and is a Tier 4 option closer to your academic profile.",
+          "relevantResearchAreas": [
+            "Computing and Information Sciences"
+          ],
+          "requirements": {
+            "cgpa": "3",
+            "gre": "305",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 42600,
+          "intake": "Fall, Spring",
+          "deadline": "December 1",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "The program's minimum 3.0 CGPA and 6.5 IELTS are higher than your current 2.5 CGPA and 6.0 IELTS.",
+            "Estimated annual cost is $42,600, which exceeds your $20,000 budget, making funding or assistantships essential."
+          ],
+          "sources": [],
+          "saved": false
+        },
+        {
+          "id": "ai-catalog-136",
+          "catalogueId": "136",
+          "source": "ai_catalog",
+          "universityName": "University of Texas at Arlington",
+          "university_name": "University of Texas at Arlington",
+          "country": "USA",
+          "stateOrRegion": "Texas",
+          "state": "Texas",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "",
+          "whySuggested": "Offers an MS in Computer Science in the USA, is classified as Tier 4, and often accepts students without GRE scores.",
+          "relevantResearchAreas": [
+            "Computing and Information Sciences"
+          ],
+          "requirements": {
+            "cgpa": "3",
+            "gre": "305",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 39000,
+          "intake": "Fall",
+          "deadline": "Rolling",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "Your CGPA of 2.5 and IELTS of 6.0 do not meet the listed program minimums of 3.0 and 6.5.",
+            "The annual cost is estimated at $39,000, which is above your preferred budget of $20,000."
+          ],
+          "sources": [],
+          "saved": false
+        },
+        {
+          "id": "ai-catalog-151",
+          "catalogueId": "151",
+          "source": "ai_catalog",
+          "universityName": "Wayne State University",
+          "university_name": "Wayne State University",
+          "country": "USA",
+          "stateOrRegion": "Michigan",
+          "state": "Michigan",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "",
+          "whySuggested": "Aligns with your desired major of Computer Science in the USA and provides research opportunities in Computing and Information Sciences.",
+          "relevantResearchAreas": [
+            "Computing and Information Sciences"
+          ],
+          "requirements": {
+            "cgpa": "3",
+            "gre": "305",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 46200,
+          "intake": "Fall",
+          "deadline": "Fall: February 1; Spring: October 1",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "You do not meet the minimum listed CGPA of 3.0 and IELTS requirement of 6.5.",
+            "The estimated annual cost of $46,200 significantly exceeds your $20,000 yearly budget limit."
+          ],
+          "sources": [],
+          "saved": false
+        },
+        {
+          "id": "ai-catalog-166",
+          "catalogueId": "166",
+          "source": "ai_catalog",
+          "universityName": "Marshall University",
+          "university_name": "Marshall University",
+          "country": "USA",
+          "stateOrRegion": "West Virginia",
+          "state": "West Virginia",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "",
+          "whySuggested": "Matches your goal of studying Computer Science in the USA at a Tier 4 institution with lower entry requirement gaps.",
+          "relevantResearchAreas": [
+            "Computing and Information Sciences"
+          ],
+          "requirements": {
+            "cgpa": "3",
+            "gre": "305",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 42600,
+          "intake": "Fall",
+          "deadline": "Fall: January 15; Spring: September 15",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "The listed minimum requirements are 3.0 CGPA and 6.5 IELTS, which are higher than your profile values.",
+            "Annual cost is estimated at $42,600, requiring additional funding to align with your $20,000 budget."
+          ],
+          "sources": [],
+          "saved": false
+        },
+        {
+          "id": "ai-catalog-181",
+          "catalogueId": "181",
+          "source": "ai_catalog",
+          "universityName": "Yeshiva University",
+          "university_name": "Yeshiva University",
+          "country": "USA",
+          "stateOrRegion": "New York",
+          "state": "New York",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "",
+          "whySuggested": "A Tier 4 US-based program matching your target Computer Science major that frequently waives GRE requirements.",
+          "relevantResearchAreas": [
+            "Computing and Information Sciences"
+          ],
+          "requirements": {
+            "cgpa": "3",
+            "gre": "305",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 46000,
+          "intake": "Fall",
+          "deadline": "February 1",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "Your current CGPA (2.5) and IELTS (6.0) are below the program's listed minimums of 3.0 and 6.5.",
+            "The $46,000 annual cost is more than double your requested $20,000 budget, making financial support critical."
+          ],
+          "sources": [],
+          "saved": false
+        },
+        {
+          "id": "ai-catalog-196",
+          "catalogueId": "196",
+          "source": "ai_catalog",
+          "universityName": "University of Louisville",
+          "university_name": "University of Louisville",
+          "country": "USA",
+          "stateOrRegion": "Kentucky",
+          "state": "Kentucky",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "",
+          "whySuggested": "Matches your preference for a Computer Science MS in the USA and fits your research interests in Computing and Information Sciences.",
+          "relevantResearchAreas": [
+            "Computing and Information Sciences"
+          ],
+          "requirements": {
+            "cgpa": "3",
+            "gre": "305",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 46200,
+          "intake": "Fall",
+          "deadline": "January 15",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "The listed program minimums are 3.0 CGPA and 6.5 IELTS, which exceed your 2.5 CGPA and 6.0 IELTS.",
+            "An estimated cost of $46,200 per year means you will need substantial funding to meet your $20,000 limit."
+          ],
+          "sources": [],
+          "saved": false
+        },
+        {
+          "id": "ai-catalog-61",
+          "catalogueId": "61",
+          "source": "ai_catalog",
+          "universityName": "University of California, Riverside",
+          "university_name": "University of California, Riverside",
+          "country": "USA",
+          "stateOrRegion": "California",
+          "state": "California",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "",
+          "whySuggested": "A Tier 3 Computer Science program in California matching your field and country preferences.",
+          "relevantResearchAreas": [
+            "Computing and Information Sciences"
+          ],
+          "requirements": {
+            "cgpa": "3.3",
+            "gre": "312",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 60000,
+          "intake": "Fall",
+          "deadline": "February 1",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "The minimum 3.3 CGPA and 6.5 IELTS required present a notable gap compared to your 2.5 and 6.0.",
+            "Annual cost is estimated at $60,000, requiring significant external funding to fit your $20,000 budget."
+          ],
+          "sources": [],
+          "saved": false
+        },
+        {
+          "id": "ai-catalog-76",
+          "catalogueId": "76",
+          "source": "ai_catalog",
+          "universityName": "University of Kentucky",
+          "university_name": "University of Kentucky",
+          "country": "USA",
+          "stateOrRegion": "Kentucky",
+          "state": "Kentucky",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "",
+          "whySuggested": "Aligns with your desired graduate program in Computer Science and location preference in the USA.",
+          "relevantResearchAreas": [
+            "Computing and Information Sciences"
+          ],
+          "requirements": {
+            "cgpa": "3.3",
+            "gre": "312",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 51500,
+          "intake": "Fall",
+          "deadline": "January 15",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "The program has a listed minimum CGPA of 3.3 and IELTS of 6.5, which are higher than your current profile.",
+            "The $51,500 annual cost is well above your target budget of $20,000 per year."
+          ],
+          "sources": [],
+          "saved": false
+        },
+        {
+          "id": "ai-catalog-91",
+          "catalogueId": "91",
+          "source": "ai_catalog",
+          "universityName": "Boise State University",
+          "university_name": "Boise State University",
+          "country": "USA",
+          "stateOrRegion": "Idaho",
+          "state": "Idaho",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "",
+          "whySuggested": "Offers a Computer Science program in the USA that matches your field of study and provides research in computing.",
+          "relevantResearchAreas": [
+            "Computing and Information Sciences"
+          ],
+          "requirements": {
+            "cgpa": "3.3",
+            "gre": "312",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 50000,
+          "intake": "Fall",
+          "deadline": "January 5",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "Your CGPA (2.5) and IELTS (6.0) fall short of the program's listed minimums of 3.3 and 6.5.",
+            "With an annual cost of $50,000, securing funding is required to stay within your $20,000 budget."
+          ],
+          "sources": [],
+          "saved": false
+        },
+        {
+          "id": "ai-catalog-106",
+          "catalogueId": "106",
+          "source": "ai_catalog",
+          "universityName": "New Jersey Institute of Technology",
+          "university_name": "New Jersey Institute of Technology",
+          "country": "USA",
+          "stateOrRegion": "New Jersey",
+          "state": "New Jersey",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "",
+          "whySuggested": "Located in New Jersey, this Tier 3 school matches your desired program of study in Computer Science.",
+          "relevantResearchAreas": [
+            "Computing and Information Sciences"
+          ],
+          "requirements": {
+            "cgpa": "3.3",
+            "gre": "312",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 55500,
+          "intake": "Fall",
+          "deadline": "December 15",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "The minimum requirements are a 3.3 CGPA and 6.5 IELTS, whereas your scores are 2.5 and 6.0.",
+            "The estimated annual cost is $55,500, which exceeds your target budget of $20,000."
+          ],
+          "sources": [],
+          "saved": false
+        }
+      ],
+      "catalogueSize": 200,
+      "generatedAt": "2026-08-21T14:09:04.942Z"
+    },
+    "1004": {
+      "applicantProfile": {
+        "applicant": {
+          "name": "Faculty Two",
+          "email": "faculty3@example.com"
+        },
+        "degree": {
+          "level": "Undergraduate",
+          "field": "Computer Science",
+          "institution": "",
+          "cgpa": 2.8,
+          "graduationYear": ""
+        },
+        "tests": {
+          "ieltsOrToefl": 7,
+          "greSatOrGmat": 310
+        },
+        "research": {
+          "interests": [
+            "Machine Learning | Computer Vision | Data Science | Healthcare Applications of AI",
+            "RESEARCH EXPERIENCE",
+            "Undergraduate Research Assistant - Department of Computer Science and Engineering",
+            "January 2026 - Present",
+            "• Worked on introductory machine learning experiments involving classification and image data.",
+            "• Assisted with dataset preprocessing",
+            "feature extraction",
+            "and model evaluation.",
+            "• Implemented baseline models using Python and Scikit-learn.",
+            "• Helped prepare experimental results for conference submissions."
+          ],
+          "publications": [
+            {
+              "title": "Machine Learning Based Prediction of Diabetes Using Clinical Features",
+              "venue": "",
+              "year": "",
+              "authorship": "",
+              "topic": ""
+            },
+            {
+              "title": "R. Hossain, S. Ahmed, T. Rahman. International Conference on Computing and Information Technology (ICCIT-BD), .",
+              "venue": "2026",
+              "year": "",
+              "authorship": "",
+              "topic": ""
+            },
+            {
+              "title": "Comparative Analysis of CNN Architectures for Plant Disease Classification",
+              "venue": "",
+              "year": "",
+              "authorship": "",
+              "topic": ""
+            },
+            {
+              "title": "S. Ahmed, R. Hossain, M. Hasan. National Conference on Emerging Technologies in Computing (NCETC), .",
+              "venue": "2026",
+              "year": "",
+              "authorship": "",
+              "topic": ""
+            },
+            {
+              "title": "An IoT and Machine Learning Approach for Smart Waste Classification",
+              "venue": "",
+              "year": "",
+              "authorship": "",
+              "topic": ""
+            },
+            {
+              "title": "M. Islam, R. Hossain, N. Akter. Bangladesh Conference on Intelligent Systems and Technology (BCIST), .",
+              "venue": "2025",
+              "year": "",
+              "authorship": "",
+              "topic": ""
+            }
+          ]
+        },
+        "experience": {
+          "projects": 1,
+          "internships": 0,
+          "extracurriculars": ""
+        },
+        "skills": [
+          "Python",
+          "R",
+          "Machine Learning",
+          "C++",
+          "Computer Vision",
+          "TensorFlow",
+          "Scikit-learn",
+          "JavaScript",
+          "Java",
+          "Git"
+        ],
+        "preferences": {
+          "desiredDegree": "",
+          "desiredField": "Computer Science",
+          "countries": [],
+          "budgetUsdPerYear": 8000,
+          "fundingPreference": ""
+        }
+      },
+      "cacheKey": "7a4d78e0f7d3d717ee78963bb4f381fc0573b50be4e00ec2e99efc1c31c59d92",
+      "model": "gemini-3.5-flash-lite",
+      "source": "local_catalogue",
+      "recommendations": [
+        {
+          "id": "ai-catalog-61",
+          "catalogueId": "61",
+          "source": "ai_catalog",
+          "universityName": "University of California, Riverside",
+          "university_name": "University of California, Riverside",
+          "country": "USA",
+          "stateOrRegion": "California",
+          "state": "California",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "https://icon.horse/icon/ucr.edu",
+          "whySuggested": "Matches the applicant's Computer Science background, meets the CGPA and test score criteria, and fits within the computing research interest.",
+          "relevantResearchAreas": [
+            "Machine Learning",
+            "Computer Vision",
+            "Data Science"
+          ],
+          "requirements": {
+            "cgpa": "3.3",
+            "gre": "312",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 60000,
+          "intake": "Fall",
+          "deadline": "February 1",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "Annual costs exceed the stated budget preference of $8,000 per year.",
+            "Program accepts applicants without GRE often, matching the test profile."
+          ],
+          "sources": [],
+          "saved": false
+        },
+        {
+          "id": "ai-catalog-76",
+          "catalogueId": "76",
+          "source": "ai_catalog",
+          "universityName": "University of Kentucky",
+          "university_name": "University of Kentucky",
+          "country": "USA",
+          "stateOrRegion": "Kentucky",
+          "state": "Kentucky",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "https://icon.horse/icon/uky.edu",
+          "whySuggested": "Aligns with the applicant's Computer Science field, undergraduate research experience, and test score profile.",
+          "relevantResearchAreas": [
+            "Machine Learning",
+            "Data Science"
+          ],
+          "requirements": {
+            "cgpa": "3.3",
+            "gre": "312",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 51500,
+          "intake": "Fall",
+          "deadline": "January 15",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "Estimated annual cost is above the applicant's budget preference.",
+            "Deadline is January 15 for the fall intake."
+          ],
+          "sources": [],
+          "saved": false
+        },
+        {
+          "id": "ai-catalog-106",
+          "catalogueId": "106",
+          "source": "ai_catalog",
+          "universityName": "New Jersey Institute of Technology",
+          "university_name": "New Jersey Institute of Technology",
+          "country": "USA",
+          "stateOrRegion": "New Jersey",
+          "state": "New Jersey",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "https://icon.horse/icon/njit.edu",
+          "whySuggested": "Suits the applicant's Computer Science degree and ML background, with minimum requirements matching the profile.",
+          "relevantResearchAreas": [
+            "Machine Learning",
+            "Computer Vision"
+          ],
+          "requirements": {
+            "cgpa": "3.3",
+            "gre": "312",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 55500,
+          "intake": "Fall",
+          "deadline": "December 15",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "Estimated total costs are higher than the preferred budget.",
+            "Application deadline is December 15."
+          ],
+          "sources": [],
+          "saved": false
+        },
+        {
+          "id": "ai-catalog-121",
+          "catalogueId": "121",
+          "source": "ai_catalog",
+          "universityName": "East Carolina University",
+          "university_name": "East Carolina University",
+          "country": "USA",
+          "stateOrRegion": "North Carolina",
+          "state": "North Carolina",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "https://icon.horse/icon/ecu.edu",
+          "whySuggested": "Fits the applicant's undergraduate background in Computer Science and accommodates the test scores and GPA.",
+          "relevantResearchAreas": [
+            "Machine Learning",
+            "Data Science"
+          ],
+          "requirements": {
+            "cgpa": "3",
+            "gre": "305",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 42600,
+          "intake": "Fall, Spring",
+          "deadline": "December 1",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "Offers lower annual costs compared to higher-tier institutions, though still above the requested budget.",
+            "Deadline is December 1."
+          ],
+          "sources": [],
+          "saved": false
+        },
+        {
+          "id": "ai-catalog-136",
+          "catalogueId": "136",
+          "source": "ai_catalog",
+          "universityName": "University of Texas at Arlington",
+          "university_name": "University of Texas at Arlington",
+          "country": "USA",
+          "stateOrRegion": "Texas",
+          "state": "Texas",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "",
+          "whySuggested": "Matches the applicant's field of Computer Science and aligns with profile test and GPA metrics.",
+          "relevantResearchAreas": [
+            "Machine Learning",
+            "Computer Vision"
+          ],
+          "requirements": {
+            "cgpa": "3",
+            "gre": "305",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 39000,
+          "intake": "Fall",
+          "deadline": "Rolling",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "Features a rolling deadline for flexibility.",
+            "Costs exceed the applicant's preferred budget."
+          ],
+          "sources": [],
+          "saved": false
+        },
+        {
+          "id": "ai-catalog-151",
+          "catalogueId": "151",
+          "source": "ai_catalog",
+          "universityName": "Wayne State University",
+          "university_name": "Wayne State University",
+          "country": "USA",
+          "stateOrRegion": "Michigan",
+          "state": "Michigan",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "https://icon.horse/icon/wayne.edu",
+          "whySuggested": "Appropriate for a Computer Science graduate path based on the applicant's academic history and test scores.",
+          "relevantResearchAreas": [
+            "Machine Learning",
+            "Data Science"
+          ],
+          "requirements": {
+            "cgpa": "3",
+            "gre": "305",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 46200,
+          "intake": "Fall",
+          "deadline": "Fall: February 1; Spring: October 1",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "Estimated annual cost is higher than the applicant's budget.",
+            "Has a split deadline for Fall and Spring intakes."
+          ],
+          "sources": [],
+          "saved": false
+        },
+        {
+          "id": "ai-catalog-166",
+          "catalogueId": "166",
+          "source": "ai_catalog",
+          "universityName": "Marshall University",
+          "university_name": "Marshall University",
+          "country": "USA",
+          "stateOrRegion": "West Virginia",
+          "state": "West Virginia",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "https://icon.horse/icon/marshall.edu",
+          "whySuggested": "Matches the applicant's Computer Science background and aligns with the test score and GPA profile.",
+          "relevantResearchAreas": [
+            "Machine Learning",
+            "Computer Vision"
+          ],
+          "requirements": {
+            "cgpa": "3",
+            "gre": "305",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 42600,
+          "intake": "Fall",
+          "deadline": "Fall: January 15; Spring: September 15",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "Estimated cost exceeds the applicant's budget preference.",
+            "Offers both Fall and Spring intakes."
+          ],
+          "sources": [],
+          "saved": false
+        },
+        {
+          "id": "ai-catalog-181",
+          "catalogueId": "181",
+          "source": "ai_catalog",
+          "universityName": "Yeshiva University",
+          "university_name": "Yeshiva University",
+          "country": "USA",
+          "stateOrRegion": "New York",
+          "state": "New York",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "https://icon.horse/icon/yu.edu",
+          "whySuggested": "Suits the applicant's field of study and meets the minimum admission criteria from the profile.",
+          "relevantResearchAreas": [
+            "Machine Learning",
+            "Data Science"
+          ],
+          "requirements": {
+            "cgpa": "3",
+            "gre": "305",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 46000,
+          "intake": "Fall",
+          "deadline": "February 1",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "Tuition and annual costs are above the stated budget.",
+            "Deadline for application is February 1."
+          ],
+          "sources": [],
+          "saved": false
+        },
+        {
+          "id": "ai-catalog-196",
+          "catalogueId": "196",
+          "source": "ai_catalog",
+          "universityName": "University of Louisville",
+          "university_name": "University of Louisville",
+          "country": "USA",
+          "stateOrRegion": "Kentucky",
+          "state": "Kentucky",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "https://icon.horse/icon/louisville.edu",
+          "whySuggested": "Aligns with the applicant's undergraduate training in Computer Science and machine learning research exposure.",
+          "relevantResearchAreas": [
+            "Machine Learning",
+            "Computer Vision"
+          ],
+          "requirements": {
+            "cgpa": "3",
+            "gre": "305",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 46200,
+          "intake": "Fall",
+          "deadline": "January 15",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "Estimated costs surpass the applicant's budget preference.",
+            "Application deadline is January 15."
+          ],
+          "sources": [],
+          "saved": false
+        },
+        {
+          "id": "ai-catalog-91",
+          "catalogueId": "91",
+          "source": "ai_catalog",
+          "universityName": "Boise State University",
+          "university_name": "Boise State University",
+          "country": "USA",
+          "stateOrRegion": "Idaho",
+          "state": "Idaho",
+          "programName": "Computer Science",
+          "program": "Computer Science",
+          "programUrl": "",
+          "imageUrl": "https://icon.horse/icon/boisestate.edu",
+          "whySuggested": "Matches the applicant's Computer Science profile and research interests in machine learning and data applications.",
+          "relevantResearchAreas": [
+            "Machine Learning",
+            "Data Science"
+          ],
+          "requirements": {
+            "cgpa": "3.3",
+            "gre": "312",
+            "english": "6.5 IELTS"
+          },
+          "funding": {
+            "status": "Not listed in local catalogue",
+            "details": "Verify scholarships and assistantships with the university."
+          },
+          "estimatedCost": 50000,
+          "intake": "Fall",
+          "deadline": "January 5",
+          "importantNotes": [
+            "Estimated planning values, intake, and deadline; verify the official graduate program page.",
+            "Estimated planning costs are higher than the applicant's preferred budget.",
+            "Deadline is January 5."
+          ],
+          "sources": [],
+          "saved": false
+        }
+      ],
+      "catalogueSize": 200,
+      "generatedAt": "2026-08-20T16:16:21.983Z"
+    }
+  }
+}
